@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "AKIAILRI2UN6EOOGN4W8"
 "2OkassfgC5dGwtflUn5c+TaIDVSrLKJHGzwrQpt8"
+=======
+"AKIAILRI2UN6EOOGN4W6"
+"2OkassfgC5dGwtflUn5c+TaIDVSrLKJHGzwrQpt6"
+>>>>>>> 8abea85c980a69dfa0d2479fe1777ec444e0bc28
