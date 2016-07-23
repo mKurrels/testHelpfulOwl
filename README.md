@@ -12,5 +12,5 @@ key = "AKIAILRI2UN6EOOGN41Q"
 
 3) You should recieve an email from helpfulowl500@gmail.com within seconds.
 
-4) If you do not recieve an email, could you let me know?
+4) If you do not recieve an email, could you let me know? This is still a work in progress, and any feedback would be great.
 
