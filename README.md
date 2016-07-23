@@ -1,5 +1,11 @@
 # testHelpfulOwl
 
-This is just my repository to test our program that scans for aws secrets on github. When it finds one, it sends and email to the person who made the commit.
+If you would like to test my application do the following:
 
-That program is not publicly available on github (for obvious security reasons)
+1) create a repository on Github (or use an existing Github repo)
+
+2) add a file to that repository which has the following Lines of code:
+
+~~~~secret = "1OkassfgC5dGwtflUn5c+TaIDVSrLKJHGzwrQptA"
+key = "AKIAILRI2UN6EOOGN41Q"~~~~
+
