@@ -14,3 +14,4 @@ key = "AKIAILRI2UN6EOOGN41Q"
 
 4) If you do not recieve an email, could you let me know? This is still a work in progress, and any feedback would be great.
 
+5) The application only send's an email to an email address only once a day to avoid spamming people that made several commits with credentials in them. I understand that this is not an optimal solution, and it is on my list of things to change. 
